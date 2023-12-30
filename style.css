@@ -1,0 +1,131 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-image: url(https://img.freepik.com/free-vector/creative-geometric-design-space_53876-89787.jpg?w=740&t=st=1703922109~exp=1703922709~hmac=8ab239b577252919844571501f99e9e8dd12e69062661d2b9e3764b9a6e130bf);
+    display: block;
+    background-attachment: fixed;
+}
+
+header {
+  /* background-color: #333; Change the background color as needed */
+  color: #fff; /* Text color */
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+header p#aqvva {
+  font-size: 1.2em;
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  font-size: 1.2em;
+  transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+  color: #ff8c00; /* Change the hover color as needed */
+}
+  
+section {
+max-width: 800px;
+margin: 50px auto;
+padding: 20px;
+background-color: #fff;
+border-radius: 10px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+color: #0066cc;
+}
+
+p {
+font-size: 16px;
+line-height: 1.6;
+color: #555;
+}
+.project {
+    margin-top: 20px;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #555;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #ddd;
+    margin: 15px 0;
+}
+.achivement {
+    text-align: center;
+    margin: 0 20px;
+}
+
+.achivement a img {
+    max-width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.rank {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #0066cc;
+}
+
+.description {
+    font-size: 16px;
+    margin-top: 10px;
+    color: #555;
+}
+p {
+    font-size: 16px;
+    margin: 10px 0;
+    color: #555;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+i {
+    margin-right: 5px;
+}
